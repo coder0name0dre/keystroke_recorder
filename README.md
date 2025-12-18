@@ -59,8 +59,8 @@ keystrokes_recording.txt
 ### Example Output:
 
 ```
-2025-12-16 14:45:01 - Hello
-2025-12-16 14:45:10 - Learning Python
+16-12-2025 14:45:01 - Hello
+16-12-2025 14:45:10 - Learning Python
 ```
 
 ---
