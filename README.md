@@ -56,7 +56,7 @@ The program creates (or appends to) a file named:
 keystrokes_recording.txt
 ```
 
-### Example Output
+### Example Output:
 
 ```
 2025-12-16 14:45:01 - Hello
