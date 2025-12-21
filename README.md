@@ -2,7 +2,7 @@
 
 This script is a simple, ethical keystroke recorder written in Python.
 
-It records only the text that a user intentionally types into the program itself, ads a timestamp to each entry, and saves the result to a local text file.
+It records only the text that a user intentionally types into the program itself, adds a timestamp to each entry, and saves the result to a local text file.
 
 ---
 
