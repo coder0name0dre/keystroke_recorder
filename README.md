@@ -65,3 +65,18 @@ keystrokes_recording.txt
 
 ---
 
+## Ethical Notice
+
+This project intentionally avoids any behaviour that could be considered malicious or invasive.
+
+This is not a real keylogger, but it demonstrates the same core data flow concepts used in logging and monitoring software:
+
+- Input → Processing → Timestamping → Storage
+- Continuous loops
+- Gracefule program termination
+
+---
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/coder0name0dre/keystroke_recorder/blob/main/LICENSE).
